@@ -10,8 +10,6 @@
 |                                                                          |
 |  Other Field Of Work:       Graphic Design // VFX // Music Production    |
 |                                                                          |
-|  Open For Work?:            Yes                                          |
-|                                                                          |
 +--------------------------------------------------------------------------+
 
 
