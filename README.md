@@ -2,7 +2,8 @@
 
 ```
 
-___General___
+General
+---------------------------------------------
 
 Studied Academically:      Software Developer
 
@@ -16,7 +17,8 @@ Open For Work?:            Yes
 
 ========================================================================
 
-___Web Dev___
+Web Dev
+---------------------------------------------
 
 Preferred Framework:       Vue.js
 
@@ -26,7 +28,8 @@ Experience Working With:   + wordpress
 
 ========================================================================
 
-___Graphic Design___
+Graphic Design
+---------------------------------------------
 
 Tools In Use:              + photoshop
                            + after effects
