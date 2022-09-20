@@ -25,7 +25,6 @@ by [Luis Henrique Bizarro](https://www.awwwards.com/bizarro/)
 - [greensaar.com](http://greensaar.com/)(yes its slow :C)
 - [flagmore.ee](https://www.flagmore.ee/)
 - [tallinnfencingu23.ee](https://www.tallinnfencingu23.ee/)
-- datagambit - (discontinued)
 
 ## Other
 - Creating designs for [ETX](https://www.instagram.com/et_experience/)
