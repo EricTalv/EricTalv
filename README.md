@@ -3,7 +3,7 @@
 > Around the web | https://erictalviste.com/
   
 ## Tech Stack
-- Lang & Framework: Vue, JavaScript
+- Lang & Framework: Vue, JavaScript, PHP
 - Interest: ThreeJS
 
 ## Currently
