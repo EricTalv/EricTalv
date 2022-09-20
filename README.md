@@ -4,6 +4,7 @@
   
 ## Tech Stack
 - Lang & Framework: Vue, JavaScript, PHP
+- Managing tasks: Jira
 - Interest: ThreeJS
 
 ## Currently
