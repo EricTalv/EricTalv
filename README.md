@@ -3,7 +3,7 @@
 > Around the web | https://erictalviste.com/
   
 ## Tech Stack
-- Lang & Framework: Vue, JavaScript, PHP
+- Lang & Framework: Vue, JavaScript
 - Managing tasks: Jira
 - Interest: ThreeJS
 
