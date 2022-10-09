@@ -1,6 +1,6 @@
-> Web Developer | Front-end
+> ⬥ Front-end Web Developer
 
-> Around the web | https://erictalviste.com/
+> ⬥ Find my links > https://erictalviste.com/
   
 ## Tech Stack
 - Lang & Framework: Vue, JavaScript
